@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <title>جامعات اليمن</title>
+</head>
+<body align= "center">
+
+  <h1 align= "center">جامعات اليمن</h1>
+  <h1>Yemen Universities</h1>
+  <hr>
+  <h2>اولاً : جامعة صنعاء</h2>
+  <h2>First : Sana'a University</h2>
+  <hr>
+  <h3>تعريف على جامعة صنعاء</h3>
+  <p>جامعة صنعاء هي جامعة حكومية يمنية تأسست في عام 1970م في العاصمة اليمنية صنعاء حيث تُعتبر واحدة من أبرز المؤسسات التعليمية في اليمن وتسعى الجامعة إلى تقديم تعليم متميز وتطوير البحث العلمي بالإضافة إلى خدمة المجتمع من خلال برامجها الأكاديمية والبحثية</p>
+  <h3>Get to know Sana'a University</h3>
+  <p>Sana'a University is a Yemeni public university founded in 1970 in the Yemeni capital, Sana'a, where it is considered one of the most prominent educational institutions in Yemen</p>
+  <hr>
+  <h3>كليات جامعة صنعاء</h3>
+  <style>
+  ul {
+    list-style-position: inside;
+    direction: rtl;
+    text-align: right;
+  }
+</style>
+  <ul>
+    <li>كلية طب الاسنان</li>
+    <li>كلية الصيدلة</li>
+    <li>كلية الحاسوب</li>
+    <li>كلية التجارة</li>
+    <li>كلية الاعلام</li>
+  </ul>
+  <h3>Sana'a University Colleges</h3>
+  <ul>
+    <li>Faculty of Dentistry</li>
+    <li>Pharmacy College</li>
+    <li>College of Computer</li>
+    <li>Faculty of Commerce</li>
+    <li>College of Media</li>
+  </ul>
+  <hr>
+  <h3>مزايا جامعة صنعاء</h3>
+  <ul>
+    <li>تعتبر صرح اكاديمي</li>
+    <li>التطوير المستمر</li>
+    <li>البحث العلمي</li>
+    <li>الخدمات الطلابية</li>
+    <li>التعاون الدولي</li>
+  </ul>
+  <h3>Advantages of Sana'a University</h3>
+  <ul>
+    <li>It is considered an academic edifice</li>
+    <li>continuous development</li>
+    <li>Scientific Research</li>
+    <li>Student Services</li>
+    <li>international cooperation</li>
+  </ul>
+  <hr>
+  <table border="6" align= "center">
+    <tr>
+    <h2 align= "center">رسوم التسجيل</h2>
+    </tr>
+  <tr>
+    <th>نظام النفقة الخاصة</th>
+    <th>نظام الموازي</th>
+    <th>النظام العام</th>
+    <th>الكلية</th>
+    </tr>
+    <tr>
+      <td>2000دولار</td>
+    <td>1000دولار</td>
+    <td>1000ريال يمني</td>
+    <td>كلية طب الاسنان</td>
+    </tr>
+    <tr>
+    <td>3000دولار</td>
+    <td>1000دولار</td>
+    <td>10000ريال يمني</td>
+    <td>كلية الصيدلة</td>
+    </tr>
+    <tr>
+    <td>1000دولار</td>
+    <td>500دولار</td>
+    <td>1000ريال يمني</td>
+    <td>كلية الحاسوب</td>
+    </tr>
+    <tr>
+      <td>200دولار</td>
+      <td>20000ريال يمني</td>
+      <td>5000ريال يمني</td>
+      <td>كلية التجارة</td>
+    </tr>
+    <tr>
+      <td>150دولار</td>
+      <td>20000ريال يمني</td>
+      <td>5000ريال يمني</td>
+      <td>كلية الاعلام</td>
+    </tr>
+  </table>
+  <hr>
+  <img src="https://share.google/images/tHMEVquwslYH73Osp"width="200"height="200">
+  <hr>
+ <h2>ثانياً : جامعة الحديدة</h2>
+  <h2>Second: Hodeidah University</h2>
+  <hr>
+  <h3>تعريف على جامعة الحديدة</h3>
+  <p>جامعة الحديدة هي جامعة حكومية تقع في محافظة الحديدة في اليمن تأسست الجامعة في عام 1996م بهدف توفير التعليم العالي والبحث العلمي في مختلف المجالات تسعى الجامعة إلى تقديم تعليم متميز وتطوير البحث العلمي لخدمة المجتمع اليمني</p>
+  <h3>Definition of the University of Hodeidah</h3>
+  <p>Hodeidah University is a public university located in the Hodeidah Governorate in Yemen. The university was established in 1996 with the aim of providing higher education and scientific research in various fields</p>
+  <hr>
+  <h3>كليات جامعة الحديدة</h3>
+  <ul>
+    <li>كلية الشريعة والقانون</li>
+    <li>كلية العلوم</li>
+    <li>كلية التجارة والاقتصاد</li>
+    <li>كلية علوم البحار والبيئة</li>
+    <li>كلية الزراعة</li>
+  </ul>
+  <h3>Colleges of Hodeidah University</h3>
+  <ul>
+    <li>College of Sharia and Law</li>
+    <li>College of Science</li>
+    <li>Faculty of Commerce and Economics</li>
+    <li>College of Marine Sciences and Environment</li>
+    <li>Faculty of agriculture</li>
+  </ul>
+  <hr>
+  <h3>مزايا جامعة الحديدة</h3>
+  <ul>
+    <li>الموقع الاستراتيجي</li>
+    <li>إضافة كليات جديدة</li>
+    <li>البحث العلمي</li>
+    <li>الخدمات الطلابية</li>
+    <li>التعاون الدولي</li>
+  </ul>
+  <h3>Advantages of Sana'a University</h3>
+  <ul>
+    <li>Strategic location</li>
+    <li>Add new colleges</li>
+    <li>Scientific Research</li>
+    <li>Student Services</li>
+    <li>international cooperation</li>
+  </ul>
+  <hr>
+  <table border="6" align= "center">
+    <tr>
+    <h2 align= "center">رسوم التسجيل</h2>
+    </tr>
+  <tr>
+    <th>نظام النفقة الخاصة</th>
+    <th>نظام الموازي</th>
+    <th>النظام العام</th>
+    <th>الكلية</th>
+    </tr>
+    <tr>
+      <td>2000دولار</td>
+    <td>20000ريال يمني</td>
+    <td>1000ريال يمني</td>
+    <td>كلية الشريعة والقانون</td>
+    </tr>
+    <tr>
+    <td>1000دولار</td>
+    <td>400دولار</td>
+    <td>10000ريال يمني</td>
+    <td>كلية العلوم</td>
+    </tr>
+    <tr>
+    <td>200دولار</td>
+    <td>20000ريال يمني</td>
+    <td>5000ريال يمني</td>
+    <td>كلية التجارة</td>
+    </tr>
+    <tr>
+      <td>1000دولار</td>
+      <td>400دولار</td>
+      <td>10000ريال يمني</td>
+      <td>كلية علوم البحار والبيئة</td>
+    </tr>
+    <tr>
+      <td>200دولار</td>
+      <td>20000ريال يمني</td>
+      <td>5000ريال يمني</td>
+      <td>كلية الزراعة</td>
+    </tr>
+  </table>
+  <hr>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhoduniv.net.ye%2Fwp-content%2Fuploads%2F2021%2F04%2F%25D8%25AC%25D8%25A7%25D9%2585%25D8%25B9%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25AD%25D8%25AF%25D9%258A%25D8%25AF%25D8%25A9.png&tbnid=pcXyCYChjVJbPM&vet=1&imgrefurl=https%3A%2F%2Fhoduniv.net.ye%2Fpage%2F343%2F%3Fpost_type%3Dtribe_events%26eventDisplay%3Dlatest-past%26tribe-bar-date%3D2020-09-29&docid=olYwD2Gu3swsOM&w=400&h=400&hl=ar-EG&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=0a9dcdcb62ac1330&shem=isst%2Cvivsdl"width="200"height="200">
+  <hr>
+   <h2>ثالثاً : جامعة اب</h2>
+  <h2>Third : Ibb University</h2>
+  <hr>
+  <h3>تعريف جامعة اب</h3>
+  <p>جامعة إب هي جامعة حكومية يمنية تقع في محافظة إب تأسست الجامعة في عام 1996م بهدف توفير التعليم العالي والبحث العلمي في مختلف المجالات حيث تسعى إلى تقديم تعليم متميز وتطوير البحث العلمي لخدمة المجتمع اليمني</p>
+  <h3>Definition of Ibb University</h3>
+  <p>Ibb University is a Yemeni public university located in Ibb governorate. The university was established in 1996 with the aim of providing higher education and scientific research in various fields</p>
+  <hr>
+  <h3>كليات جامعة اب</h3>
+  <ul>
+    <li>كلية طب الاسنان</li>
+    <li>كلية الصيدلة</li>
+    <li>كلية الحاسوب</li>
+    <li>كلية التجارة</li>
+    <li>كلية الاعلام</li>
+  </ul>
+  <h3>Ibb University Colleges</h3>
+  <ul>
+    <li>Faculty of Dentistry</li>
+    <li>Pharmacy College</li>
+    <li>College of Computer</li>
+    <li>Faculty of Commerce</li>
+    <li>College of Media</li>
+  </ul>
+  <hr>
+  <h3>مزايا جامعة اب</h3>
+  <ul>
+    <li>حاصلة على المركز الاول</li>
+    <li>افضل جامعة في مستوى الاداء</li>
+    <li>ملتزمة بتطبيق نظام الجودة</li>
+    <li>الاعتماد الاكاديمي في برامجها</li>
+    <li>التعاون الدولي</li>
+  </ul>
+  <h3>Advantages of Ibb University</h3>
+  <ul>
+    <li>She is ranked first</li>
+    <li>The best university in performance</li>
+    <li>Committed to the application of the quality system</li>
+    <li>Academic accreditation in its programs</li>
+    <li>international cooperation</li>
+  </ul>
+  <hr>
+  <table border="6" align= "center">
+    <tr>
+    <h2 align= "center">رسوم التسجيل</h2>
+    </tr>
+  <tr>
+    <th>نظام النفقة الخاصة</th>
+    <th>نظام الموازي</th>
+    <th>النظام العام</th>
+    <th>الكلية</th>
+    </tr>
+    <tr>
+      <td>2000دولار</td>
+    <td>800دولار</td>
+    <td>10000ريال يمني</td>
+    <td>كلية طب الاسنان</td>
+    </tr>
+    <tr>
+    <td>2000دولار</td>
+    <td>800دولار</td>
+    <td>10000ريال يمني</td>
+    <td>كلية الصيدلة</td>
+    </tr>
+    <tr>
+    <td>1200دولار</td>
+    <td>800دولار</td>
+    <td>10000ريال يمني</td>
+    <td>كلية الحاسوب</td>
+    </tr>
+    <tr>
+      <td>200دولار</td>
+      <td>10000ريال يمني</td>
+      <td>5000ريال يمني</td>
+      <td>كلية التجارة</td>
+    </tr>
+    <tr>
+      <td>150دولار</td>
+      <td>10000ريال يمني</td>
+      <td>5000ريال يمني</td>
+      <td>كلية الاعلام</td>
+    </tr>
+  </table>
+  <hr>
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100069764898867&tbnid=y1qJfbebA-_3UM&vet=1&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fwww.ibbuniv.edu.ye%2F&docid=3dLWy6frEgC_8M&w=382&h=382&itg=1&hl=ar-EG&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=8ad667e3ea5cac79&shem=isst"width="200"height="200">
+  <hr>
+  <h2>رابعاً : جامعة تعز</h2>
+  <h2>Fourth : Taiz University</h2>
+  <hr>
+  <h3>تعريف جامعة تعز</h3>
+  <p>جامعة تعز هي جامعة حكومية تقع في محافظة تعز في اليمن تأسست الجامعة في عام 1996م بهدف توفير التعليم العالي والبحث العلمي في مختلف المجالات حيث تسعى الجامعة إلى تقديم تعليم متميز وتطوير البحث العلمي لخدمة المجتمع اليمني</p>
+  <h3>Definition of Taiz University</h3>
+  <p>Taiz University is a public university located in Taiz Governorate, Yemen. The university was established in 1996 with the aim of providing higher education and scientific research in various fields</p>
+  <hr>
+  <h3>كليات جامعة تعز</h3>
+  <ul>
+    <li>كلية العلوم الادارية</li>
+    <li>كلية الطب والعلوم الصحية</li>
+    <li>كلية اللغات والترجمة</li>
+    <li>كلية الحقوق</li>
+    <li>كلية التربية</li>
+  </ul>
+  <h3>Taiz University Colleges</h3>
+  <ul>
+    <li>College of Administrative Sciences</li>
+    <li>Faculty of Medicine and Health Sciences</li>
+    <li>College of Languages and Translation</li>
+    <li>Rights College</li>
+    <li>Faculty of Education</li>
+  </ul>
+  <hr>
+  <h3>مزايا جامعة تعز</h3>
+  <ul>
+    <li>أكبر جامعة في اليمن</li>
+    <li>تسعى إلى توفير تعليم عالي الجودة</li>
+    <li>تلعب دورا هاما في التعليم العالي</li>
+    <li>تطمح إلى أن تكون جامعة مرموقة في العالم</li>
+    <li>التعاون الدولي</li>
+  </ul>
+  <h3>Advantages of Taiz University</h3>
+  <ul>
+    <li>The largest university in Yemen</li>
+    <li>Seeks to provide high quality education</li>
+    <li>It plays an important role in higher education</li>
+    <li>It aspires to be a prestigious university in the world</li>
+    <li>international cooperation</li>
+  </ul>
+  <hr>
+  <table border="6" align= "center">
+    <tr>
+    <h2 align= "center">رسوم التسجيل</h2>
+    </tr>
+  <tr>
+    <th>نظام النفقة الخاصة</th>
+    <th>نظام الموازي</th>
+    <th>النظام العام</th>
+    <th>الكلية</th>
+    </tr>
+    <tr>
+      <td>200دولار</td>
+    <td>20000ريال يمني</td>
+    <td>10000ريال يمني</td>
+    <td>كلية العلوم الادارية</td>
+    </tr>
+    <tr>
+    <td>2000دولار</td>
+    <td>1000دولار</td>
+    <td>5000ريال يمني</td>
+    <td>كلية الطب والعلوم الصحية</td>
+    </tr>
+    <tr>
+      <td>150دولار</td>
+      <td>10000ريال يمني</td>
+      <td>5000ريال يمني</td>
+      <td>كلية اللغات</td>
+    </tr>
+    <tr>
+      <td>150دولار</td>
+      <td>10000ريال يمني</td>
+      <td>5000ريال يمني</td>
+      <td>كلية الحقوق</td>
+    </tr>
+    <tr>
+    <td>150دولار</td>
+    <td>10000ريال يمني</td>
+    <td>5000ريال يمني</td>
+    <td>كلية التربية</td>
+    </tr>
+  </table>
+  <hr>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Far%2F9%2F99%2FTaizz_University_Logo.jpg&tbnid=01Y2aLsahaLahM&vet=1&imgrefurl=https%3A%2F%2Far.wikipedia.org%2Fwiki%2F%25D9%2585%25D9%2584%25D9%2581%3ATaizz_University_Logo.jpg&docid=AWrq5qTP-G-2LM&w=394&h=450&hl=ar-EG&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=9929073134c13344&shem=isst%2Cvivsdl"width="200"height="200">
+  <hr>
+  <h2>خامساً : جامعة عدن</h2>
+  <h2>Fifth: University of Aden</h2>
+  <hr>
+  <h3>تعريف جامعة عدن</h3>
+  <p>جامعة عدن هي جامعة حكومية تقع في محافظة عدن في اليمن تأسست الجامعة في عام 1970م بهدف توفير التعليم العالي والبحث العلمي في مختلف المجالات حيث تسعى الجامعة إلى تقديم تعليم متميز وتطوير البحث العلمي لخدمة المجتمع اليمني</p>
+  <h3>Definition of University of Aden</h3>
+  <p>Aden University is a public university located in the governorate of Aden, Yemen. The university was established in 1970 with the aim of providing higher education and scientific research in various fields.</p>
+  <hr>
+  <h3>كليات جامعة عدن</h3>
+  <ul>
+    <li>كلية العلوم الادارية</li>
+    <li>كلية الحاسوب وتكنولوجيا المعلومات</li>
+    <li>كلية الحقوق</li>
+    <li>كلية اللغات والترجمة</li>
+    <li>كلية التربية</li>
+  </ul>
+  <h3></h3>
+  <ul>
+    <li>College of Administrative Sciences</li>
+    <li>College of Computer and Information Technology</li>
+    <li>Rights College</li>
+    <li>College of Languages and Translation</li>
+    <li>Faculty of Education</li>
+  </ul>
+  <hr>
+  <h3>مزايا جامعة عدن</h3>
+  <ul>
+    <li>صرح التميز الاكاديمي وطنياً وقارياً ودولياً</li>
+    <li>التقدم في التصنيف العالمي</li>
+    <li>الاعتراف الاكاديمي</li>
+    <li>البحث العلمي</li>
+    <li>التعاون الدولي</li>
+  </ul>
+  <h3>Advantages of University of Aden</h3>
+  <ul>
+    <li>Academic excellence edifice nationally, continentally and internationally</li>
+    <li>Advance in the world rankings</li>
+    <li>Academic recognition</li>
+    <li>Scientific Research</li>
+    <li>international cooperation</li>
+  </ul>
+  <hr>
+  <table border="6" align= "center">
+    <tr>
+    <h2 align= "center">رسوم التسجيل</h2>
+    </tr>
+  <tr>
+    <th>نظام النفقة الخاصة</th>
+    <th>نظام الموازي</th>
+    <th>النظام العام</th>
+    <th>الكلية</th>
+    </tr>
+    <tr>
+      <td>1000دولار</td>
+    <td>500دولار</td>
+    <td>10000ريال يمني</td>
+    <td>كلية طب الاسنان</td>
+    </tr>
+    <tr>
+    <td>1000دولار</td>
+    <td>500دولار</td>
+    <td>10000ريال يمني</td>
+    <td>كلية الصيدلة</td>
+    </tr>
+    <tr>
+    <td>1000دولار</td>
+    <td>500دولار</td>
+    <td>10000ريال يمني</td>
+    <td>كلية الحاسوب</td>
+    </tr>
+    <tr>
+      <td>150دولار</td>
+      <td>20000ريال يمني</td>
+      <td>5000ريال يمني</td>
+      <td>كلية التجارة</td>
+    </tr>
+    <tr>
+      <td>150دولار</td>
+      <td>20000ريال يمني</td>
+      <td>5000ريال يمني</td>
+      <td>كلية الاعلام</td>
+    </tr>
+  </table>
+  <hr>
+<img src="https://share.google/images/EqfdLtvPgdQd4DYzE"width="200"height="200">
+<title>خلفية متدرجة</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  body {
+    /* تدرج ألوان عمودي: أبيض → زهري فاتح → أبيض */
+    background: linear-gradient(to bottom, #ffffff 0%, #FFC5C5 50%, #ffffff 100%);
+    /* #ffffff = أبيض */
+    /* #FFC5C5 = زهري فاتح */
+  }
+</style>
+</body>
+</html>
